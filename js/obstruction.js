@@ -24,7 +24,7 @@ function obstruct() {
 					.then ((cont) => {
 
 						if(!cont) {
-							swal("Hmmmm.... So you’d not like to be my valentine?'", {
+							swal("Hmmmm.... So you’d not not like to be my valentine?'", {
 						  		buttons: ["No", "Yes"],
 							})			
 
